@@ -3,9 +3,12 @@
 don't Install Backs !!!
 
 ## 1. Installaion
-Open Terminal
+Open Terminal go in the Folder
+
+```console
+cd Wifi
 
 ```console
 cd Install
-echo "Hello World"
+bash install.sh
 ```
