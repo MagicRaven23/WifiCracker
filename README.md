@@ -6,7 +6,9 @@ don't Install Backs !!!
 Open Terminal go in the Folder
 
 ```console
-cd Wifi
+cd wificrack
+```
+Install lines
 
 ```console
 cd Install
