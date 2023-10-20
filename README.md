@@ -1,7 +1,7 @@
 # WifiCracker
 
 don't Install Backs !!!
-´´´shell
+```console
 #!/bin/bash
 echo "Hello World"
-´´´
+```
