@@ -6,6 +6,6 @@ don't Install Backs !!!
 Open Terminal
 
 ```console
-#!/bin/bash
+cd Install
 echo "Hello World"
 ```
