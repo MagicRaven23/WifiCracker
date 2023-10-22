@@ -2,10 +2,8 @@
 
 don't Install Backs !!!
 
-## 1. Installaion
-
-Installion 
-
+## 1. Installation
+ 
 Open Terminal go in the Folder
 
 ```console
