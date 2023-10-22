@@ -2,9 +2,9 @@
 
 don't Install Backs !!!
 
-## Quick Giud
+#Quick Giud
 
-# 1. Installation
+## 1. Installation
  
 Open Terminal go in the Folder
 
@@ -13,4 +13,4 @@ cd wificrack
 cd Install
 bash install.sh
 ```
-# 2. Start System 
+## 2. Start System 
