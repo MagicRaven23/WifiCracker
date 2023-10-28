@@ -1,6 +1,0 @@
-
-BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
-44:4E:6D:D0:A3:95, 2023-10-08 19:34:12, 2023-10-08 19:35:06,  6, 360, WPA2, CCMP, PSK, -79,       47,       38,   0.  0.  0.  0,   8, IsiBocks, 
-
-Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
-
