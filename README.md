@@ -2,7 +2,7 @@
 
 don't Install Bucks !!!
 
-# Quick Giud
+# Quick Guid
 
 ## 1. Installation
  
