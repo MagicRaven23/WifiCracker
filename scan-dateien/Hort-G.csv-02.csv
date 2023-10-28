@@ -1,0 +1,6 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+E6:63:DA:BD:BA:93, 2023-10-09 12:10:32, 2023-10-09 12:12:48,  1, 130, WPA2, CCMP, PSK, -56,        5,        0,   0.  0.  0.  0,   6, Hort-G, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+
