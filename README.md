@@ -9,6 +9,8 @@ don't Install Bucks !!!
 Open Terminal go in the Folder
 
 ```console
+git clone https://github.com/MagicRaven23/WifiCracker
+
 cd wificrack
 cd Install
 bash install.sh
