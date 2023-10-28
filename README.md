@@ -1,6 +1,6 @@
 # WifiCracker
 
-don't Install Backs !!!
+don't Install Bucks !!!
 
 # Quick Giud
 
